@@ -12,7 +12,7 @@ Live streaming platforms, especially during high-demand events like sports match
 
  Key Features
  Adaptive Streaming – Dynamically adjusts quality based on network speed.
-                                                                  Real-Time Global Sync – Ensures all users see the same event at the same moment.
+ Real-Time Global Sync – Ensures all users see the same event at the same moment.
  Instant Start Playback – No manual seeking; users join at the right point.
  Scalable Architecture – Supports millions of users efficiently.
  Optimized Cost Efficiency – Uses smart caching, pre-fetching, and CDN strategies.
